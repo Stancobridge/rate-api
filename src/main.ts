@@ -17,7 +17,7 @@ class Server {
 
   private static swaggerSetup(app: INestApplication): void {
     const config = new DocumentBuilder()
-      .setTitle('Biggie Service APIs (Zigah)')
+      .setTitle('Biggie Service APIs (BIGI)')
       .setDescription('The Biggie Service API Documentation')
       .setVersion('1.0')
       .addTag('Biggie Backend', 'Biggie Service APIs')

@@ -48,6 +48,7 @@
     "passport-jwt": "^4.0.0",
     "passport-local": "^1.0.0",
     "pg": "^8.7.3",
+    "install": "npm install",
     "postcode-validator": "^3.7.0",
     "redis": "^4.0.3",
     "reflect-metadata": "^0.1.13",
